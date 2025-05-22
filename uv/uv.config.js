@@ -2,7 +2,7 @@ self.__uv$config = {
     prefix: '/embed/',
     
     // BARE SERVER
-    bare:'https://32867gd198764dg23vd23198746v4d69182736dvussis7.9882136.xyz/',
+    bare:'https://amir1.cuza16.ro/',
     
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
